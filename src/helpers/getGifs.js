@@ -1,4 +1,4 @@
-//Las fuinciones no se deben realizar dentro de los functional components 
+//Las funciones no se deben realizar dentro de los functional components 
 
 export const getGifs = async(category) => {
     const url = `https://api.giphy.com/v1/gifs/search?api_key=MV0A7bZVwWQ6oW9RrMz1dlwHFj95b6Co&q=${category}&limit=10`;

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on GifItem should match with snapshot 1`] = `
+<div>
+  <div
+    class="card animate__animated animate__bounceIn"
+  >
+    <img
+      alt="Pokemon"
+      src="https://pokemon.com/pikachu.png"
+    />
+    <p>
+      Pokemon
+    </p>
+  </div>
+</div>
+`;
